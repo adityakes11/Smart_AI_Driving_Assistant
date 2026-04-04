@@ -1,0 +1,6 @@
+# requirements.txt
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0  # YOLOv8 for object detection
+easyocr>=1.7.0      # For reading speed limit signs
+scipy>=1.11.0
